@@ -1,0 +1,24 @@
+
+/// std header dosyasinda gereklidir, cout std'dedir. ya da "std::" yazilabilir.
+
+using namespace std;
+
+
+
+    int toplama (int x, int y) {
+    int z;
+    z=x+y;
+    return z;
+
+}
+
+
+double kareAl (double a) {
+
+return a*a;
+}
+
+void liste() {
+    cout << "deneme ciktisi";
+
+}
